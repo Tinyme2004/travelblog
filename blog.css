@@ -1,0 +1,136 @@
+.container{
+ margin:25px;
+ width:100%;
+ color:purple;
+ background:#008B8B;
+ 
+}
+
+ 
+ 
+ .navbar{
+background-color:#008B8B;
+
+} 
+ 
+ 
+ 
+ .navbar .nav-link{
+ color:#00004d;
+ 
+}
+ 
+ 
+ 
+ .nav-link:hover{
+ color:#8600b3;
+ 
+}
+ 
+ 
+ 
+ .navbar-brand{
+ color: #009900;
+
+}
+ 
+ 
+ 
+ .navbar-brand:hover{
+ color:orange;
+ 
+}
+ 
+ 
+
+ .jumbotron{
+border-radius:2.0rem;
+color:#000080;
+background-image: url("travel image.jpg");
+
+}
+
+
+
+img{
+    width: 300px;
+    height: 300px;
+
+}
+
+
+
+p{
+color:purple;
+background:#008B8B;
+
+}
+
+
+
+h1{
+color:purple;
+background:#008B8B;
+
+}
+
+
+
+h2{
+color:purple;
+background:#008B8B;
+
+}
+
+
+
+h3{
+color:purple;
+background:#008B8B;
+
+}
+
+
+
+body {
+background-image: url("travel image.jpg");
+background-repeat: no-repeat;  background-position: center;
+background-attachment: fixed;
+
+ }
+
+
+
+body {
+  font-family: "Lato", sans-serif;
+}
+
+.sidenav {
+  width: 130px;
+  z-index: 1;
+  top: 20px;
+  left: 10px;
+  background: #008B8B;
+  overflow-x: hidden;
+  padding: 8px 0;
+}
+
+.sidenav a {
+  padding: 6px 8px 6px 16px;
+  text-decoration: none;
+  font-size: 25px;
+  color: #00004d;
+  display: block;
+}
+
+.sidenav a:hover {
+  color: purple;
+}
+
+.main {
+  margin-left: 140px;
+  font-size: 28px; 
+}
+
+
+
